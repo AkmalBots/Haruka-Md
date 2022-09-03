@@ -1,5 +1,5 @@
 {
-  "name": "Haruka-Md",
+  "name": "Senya-Botz",
   "version": "0.0.6",
   "description": "whatsapp bot with multi device.",
   "main": "haruka.js",
@@ -13,9 +13,9 @@
     "termux",
     "whatsapp",
     "2022",
-    "baileys-md"
+    "Akmal-md"
   ],
-  "author": "ZeeoneOfc",
+  "author": "Akmal",
   "license": "MIT",
   "dependencies": {
     "@adiwajshing/baileys" : "github:zeeone-ofc/baileys",
