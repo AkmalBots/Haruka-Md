@@ -1,11 +1,11 @@
 {
     "ownerNumber": ["6288226223020@s.whatsapp.net","6285836041375@s.whatsapp.net"],
-    "ownerName": "RyuuBotz",
+    "ownerName": "Akmal-Md",
     "youtube" : "https://youtube.com/channel/UCR5Hzu3hTgHDl5NU1xvc67A",
-    "botName": "RyuuBotz ",
+    "botName": "KzzyBotz ",
     "footer": "api.zeeoneofc.xyz",
     "sessionName": "session",
-    "pathimg": "./media/IMG-20221001-WA0043.jpg",
+    "pathimg": "./media/Proyek Baru 21 [20E8981].png",
     "BotKey": "Gsyt6jRJ",
     "auto_welcomeMsg": true,
     "auto_leaveMsg": true,    
@@ -13,11 +13,11 @@
     "anticall": true,
     "autorespond": true,
     "autoblok212": true,
-    "autoread": true,
+    "autoread": false,
     "gamewaktu": 90,
     "limitCount": 25,
     "gcount": {
-        "prem": 1000,
-        "user": 15
+        "prem": infinity,
+        "user": 100
     }
 }
