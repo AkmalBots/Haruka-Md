@@ -1,5 +1,5 @@
 {
-    "ownerNumber": ["6281269734000@s.whatsapp.net","6283113158288@s.whatsapp.net"],
+    "ownerNumber": ["6281269734000@s.whatsapp.net","6283113158288@s.whatsapp.net","6288217905956@s.whatsapp.net"],
     "ownerName": "Hyper-Dev",
     "youtube" : "https://youtube.com/channel/UCTmcFqM5DUtRzVbkYr6pENA",
     "botName": "HyperBotz ",
@@ -14,8 +14,8 @@
     "autorespond": true,
     "autoblok212": true,
     "autoread": false,
-    "gamewaktu": 90,
-    "limitCount": 25,
+    "gamewaktu": 60,
+    "limitCount": 30,
     "gcount": {
         "prem": infinity,
         "user": 100
